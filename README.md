@@ -1,2 +1,2 @@
 # oademo
-Objeto de Aprendizagem em Python co Streamlit
+Objeto de Aprendizagem em Python com Streamlit
